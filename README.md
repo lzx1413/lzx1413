@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lzx1413
 - 👀 I’m interested in CV/ML/SLAM
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently working on AIGC
 
 
 <!---
